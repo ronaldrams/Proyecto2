@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Proyecto1</string>
+    <string name="boton_siguiente">Siguiente</string>
+    <string name="mostardatos">Mostrar Datos</string>
+    <string name="mostrarnombre">Mostrar Nombre</string>
+    <string name="botoneditar">Editar Datos</string>
+    <string name="hintfecha">Tocar para seleccionar fecha</string>
+    <string name="hinttelefono">Telefono</string>
+    <string name="hintnombre">Nombre</string>
+    <string name="hintemail">Email</string>
+    <string name="hintdescrip">Descripcion</string>
+    <string name="textboton">Siguiente</string>
+    <string name="mostrardatos">Mostrar Datos</string>
+
+</resources>
